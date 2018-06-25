@@ -14,8 +14,8 @@ loadJson("data.json",function(text){
   console.log(data);
   fun_career(data.career);
 fun_education(data.education);
- //  fun_achievements(data.achievements);
- // fun_skills(data.skills);
+  fun_achievements(data.achievements);
+ fun_skills(data.skills);
   });
   var div2=document.getElementById("child2");
 
