@@ -1,0 +1,54 @@
+{
+  "basics":{
+    "name":"Dharani gunupudi",
+    "email":"dharanigunupudi@gmail.com",
+    "mobile":"+91-7013206329"
+  },
+  "career":{
+  "info":"To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career"
+},
+  "education":[
+    {
+      "Degree":"B.Tech",
+      "Institute":"PSCMR",
+      "Data":["2015-19","65%"]
+    },
+    {
+      "Degree":"Intermediate",
+      "Institute":"Sri Chaintanya Junior College",
+      "Data":["2013-15","66%"]
+    },
+    {
+      "Degree":"CBSE",
+      "Institute":"Atkinson Higher Secondary School",
+      "Data":["2012-13","8.4"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Semi-finalist of Master Orator Championship by Toastmasters International. "
+    },
+    {
+    "name":"certification by Spoken Tutorials -IIT Bombay :C,C++,JAVA"
+  },
+}
+],
+"skills":[
+  {
+    "name":"Programming Languages",
+    "data":["C++","Java","C"]
+  },
+  {
+    "name":"Data Bases",
+    "data":["Oracle","MySQL"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["CSS","Javascript"]
+  },
+{
+  "name":"Libraries and Frameworks",
+  "data":["codeIgniter","jQuery"]
+}
+]
+}
